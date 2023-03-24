@@ -4,13 +4,15 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.8.2"
+    "vuepress": "^1.9.9"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
+    "vue": "^2.7.14",
+    "vue-server-renderer": "^2.7.14",
     "vuepress-theme-reco": "^1.6.6"
   }
 }

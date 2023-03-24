@@ -12,13 +12,13 @@ module.exports = [
             // {text: 'Redis', link: '/blogs/redis/redis-String.md'},
         ]
     },
-    // {
-    //     text: '算法',  //默认显示
-    //     ariaLabel: '分类',   //用于识别的label
-    //     items: [
-    //         {text: '剑指offer', link: '/blogs/algorithm/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof.md'},
-    //     ]
-    // },
+    {
+        text: '客户端',  //默认显示
+        ariaLabel: '分类',   //用于识别的label
+        items: [
+            {text: 'swift - iOS开发', link: '/blogs/swift/base/basic-knowledge.md'},
+        ]
+    },
     //格式三：跳转至外部网页，需http/https前缀
     {
         text: '博客',

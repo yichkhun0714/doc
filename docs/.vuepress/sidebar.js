@@ -34,4 +34,22 @@ module.exports = {
             ]
         },
     ],
+    '/blogs/swift/': [
+        {
+            title: 'Swift',   // 一级菜单名称
+            collapsable: false, // false为默认展开菜单, 默认值true是折叠,
+            // sidebarDepth: 1,    //  设置侧边导航自动提取markdown文件标题的层级，默认1为h2层级
+            children: [
+                ['base/basic-knowledge.md', 'swift - 基础知识'],
+                ['base/control-flow.md', 'swift - 控制流'],
+                ['base/collection-type.md', 'swift - 集合类型'],
+                ['base/functions-and-closures.md', 'swift - 函数与闭包'],
+                ['base/enums-and-structs.md', 'swift - 枚举与结构体'],
+                ['base/classes-and-objects.md', 'swift - 类与对象'],
+                ['base/error-handling.md', 'swift - 错误处理'],
+                ['base/protocols-and-extensions.md', 'swift - 协议与扩展'],
+                ['base/generic.md', 'swift - 泛型'],
+            ]
+        },
+    ],
 }
