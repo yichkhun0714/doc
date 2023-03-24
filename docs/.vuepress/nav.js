@@ -16,7 +16,7 @@ module.exports = [
         text: '客户端',  //默认显示
         ariaLabel: '分类',   //用于识别的label
         items: [
-            {text: 'swift - iOS开发', link: '/blogs/swift/base/basic-knowledge.md'},
+            {text: 'Swift - iOS开发', link: '/blogs/swift/base/basic-knowledge.md'},
         ]
     },
     //格式三：跳转至外部网页，需http/https前缀

@@ -1,5 +1,5 @@
 ---
-title: swift - 类与对象
+title: Swift - 类与对象
 ---
 ## 类定义与初始化
 类（Class）是一种引用类型，可以包含属性和方法。类需要实现构造器（Initializer）进行初始化。

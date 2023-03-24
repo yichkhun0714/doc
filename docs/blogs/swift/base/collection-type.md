@@ -1,5 +1,5 @@
 ---
-title: swift - 集合类型
+title: Swift - 集合类型
 ---
 # 集合类型
 ## 数组

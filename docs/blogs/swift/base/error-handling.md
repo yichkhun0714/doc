@@ -1,5 +1,5 @@
 ---
-title: swift - 错误处理
+title: Swift - 错误处理
 ---
 ## 错误类型与抛出
 Swift中的错误表示为遵循`Error`协议的类型。可以使用`throw`关键字抛出错误。

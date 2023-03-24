@@ -1,5 +1,5 @@
 ---
-title: swift - 泛型
+title: Swift - 泛型
 ---
 泛型（Generics）可以编写灵活且可重用的函数和类型。
 ```swift

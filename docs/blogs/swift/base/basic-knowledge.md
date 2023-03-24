@@ -1,5 +1,5 @@
 ---
-title: swift - 基础知识
+title: Swift - 基础知识
 ---
 ## 变量与常量
 在Swift中，我们使用var关键字声明变量，使用let关键字声明常量。
